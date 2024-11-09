@@ -1,0 +1,22 @@
+# 忽略所有 .class 文件
+*.class
+ 
+# 忽略所有 .log 文件
+*.log
+ 
+# 忽略所有 .settings 目录
+.settings/
+ 
+# 忽略所有 .project 文件
+.project
+ 
+# 忽略所有 .idea 目录
+.idea/
+ 
+# 忽略所有 .gitignore 文件
+.gitignore
+ 
+# 忽略所有 target 目录
+target/
+
+*.iml
